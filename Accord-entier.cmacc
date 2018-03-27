@@ -1,0 +1,48 @@
+
+
+
+
+ACCORD DE CONFIDENTIALITÉ ET DE NON DIVULGATION
+
+
+fichiers: 
+
+$ preambule = [./parties.cmacc]
+$ objet = [./def_objet.cmacc]
+$ confidentialite = [./clause_confidentialite.cmacc]
+$ exception_domaine_public = [./exception_confidentialite.cmacc]
+$ exploitation_elements_confidentiels = [./exploitation_elements_confidentiels.cmacc]
+$ personnes_soumise_a_la_confidentialite = [./personnes_impliquees.cmacc]
+$ protection_des_elements_confidentiels = [./protection_elements_confidentiels.cmacc]
+$ info_rupture_contrat = [./info_rupture.cmacc]
+$ propriete_support = [./propriete_support.cmacc]
+$ propriete_element_confidentiels = [./proprio_element_conf.cmacc]
+$ protection_interet = [./protect_interet.cmacc]
+$ hierarchie_contrat = [hierarchie_contrats.cmacc]
+$ interdiction_cession_obligation = [./cession_obligation.cmacc]
+$ competence_juridictionnelle = [./juridiction_competente.cmacc]
+$ formalites = [./signatures.cmacc]
+ 
+{{preambule}}
+{{objet}}
+{{confidentialite}}
+{{exception_domaine_public}}
+{{exploitation_elements_confidentiels}}
+{{personnes_soumise_a_la_confidentialite}}
+{{protection_des_elements_confidentiels}}
+{{info_rupture_contrat}}
+{{propriete_support}}
+{{propriete_element_confidentiels}}
+{{protection_interet}}
+{{hierarchie_contrat}}
+{{interdiction_cession_obligation}}
+{{competence_juridictionnelle}}
+{{formalites}}
+
+
+
+
+
+
+
+

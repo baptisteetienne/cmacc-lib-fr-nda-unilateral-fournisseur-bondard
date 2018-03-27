@@ -1,0 +1,42 @@
+Dossier// 
+
+Paramètres: 
+
+$ partie1 = [[nom_partie1]
+
+$ raison_sociale1 = [[raison_sociale1]]
+
+$ droit_applicable1 = [[droit_applicable1]]
+
+$ adresse1 = [[adresse1]]
+
+$ num_TVA1 = [[numero_TVA1]]
+
+$ nom_representant1 = [[nom_representant1]]
+
+$ titre1 = [[titre1]]
+
+$ partie2 = [[nom_partie2]]
+
+$ raison_sociale2 = [[raison_sociale2]]
+
+$ droit_applicable2 =[[droit_applicable2]]
+
+$ adresse2 = [[adresse2]]
+
+$ num_TVA2 = [[numeroTVA2]]
+
+$ nom_representant2 = [[nom_representant2]]
+
+$ titre2 = [[titre_2]]
+
+$ specialisation = [[specialisation]]
+
+
+ENTRE :
+______{{partie1}}____________ , une société ____{{raison_sociale1}}________________ de droit ____{{droit_applicable1}}__________________, ayant son siège social _____________{{adresse1}}________, numéro de TVA intracommunautaire No ________{{num_TVA1}}____________, représentée à l’effet et pour les besoins des présentes par _____{{nom_representant1}}__________________ intervenant en sa qualité de ___________{{titre1}}_________ (ci-après le « Fournisseur ») ;
+ET :
+____________{{partie2}}______ , une société _______{{raison_sociale2}}_____________ de droit ______________{{droit_applicable2}}________, ayant son siège social _________{{adresse2}}____________, numéro de TVA intracommunautaire No __________{{num_TVA2}}__________, représentée à l’effet et pour les besoins des présentes par ____________{{nom_representant2}}___________ intervenant en sa qualité de _______{{titre2}}_____________ (ci-après la « Partie contractante ») ;
+
+Le Fournisseur et la Partie contractante seront conjointement dénommées les « Parties » ou séparément la « Partie ».
+La Partie contractante est une société spécialisée dans ________{{specialisation}}_____________  (ci-après les « Evènements » - ou individuellement l’ « Evènement »). A ce titre, la Partie contractante est propriétaire d’informations qui sont de nature confidentielles et qui lui appartiennent en propre (ci-après les « Éléments Confidentiels »).
